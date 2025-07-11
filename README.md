@@ -23,4 +23,6 @@ PUT - http://localhost:3333/products/:id
 - Para deletar um id:
 DELETE - http://localhost:3333/products/:id
 
+Não se esqueça de usar as chaves válidas de acesso!
+
 Até mais!
